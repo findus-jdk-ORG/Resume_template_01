@@ -1,0 +1,247 @@
+{
+  "profile": {
+    "name": "Alex Carter",
+    "title": "Creative Designer",
+    "description": "I help brands turn their ideas into high quality digital products and experiences that perform, shine and resonate with users.",
+    "image": "./assets/3d-render-code-testing-functional-test-usability-Photoroom.png",
+    "buttons": [
+      {
+        "text": "View My Work",
+        "link": "#portfolio",
+        "type": "primary"
+      },
+      {
+        "text": "Hire Me",
+        "link": "#contact",
+        "type": "outline"
+      }
+    ],
+    "social": [
+      {
+        "icon": "fab fa-twitter",
+        "link": "#",
+        "label": "Twitter"
+      },
+      {
+        "icon": "fab fa-dribbble",
+        "link": "#",
+        "label": "Dribbble"
+      },
+      {
+        "icon": "fab fa-behance",
+        "link": "#",
+        "label": "Behance"
+      },
+      {
+        "icon": "fab fa-linkedin-in",
+        "link": "#",
+        "label": "LinkedIn"
+      }
+    ]
+  },
+  "about": {
+    "title": "About Me",
+    "subtitle": "Get to know me better and discover how I can help bring your vision to life with my skills and expertise.",
+    "image": "https://images.unsplash.com/photo-1556157382-97eda2d62296?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+    "content": [
+      "I'm a passionate UI/UX designer and front-end developer with over 5 years of experience creating digital products that users love. Based in San Francisco, I've worked with startups and established companies across various industries.",
+      "My approach combines aesthetic sensibility with technical expertise to deliver solutions that are not only beautiful but also functional and user-friendly."
+    ],
+    "skills": [
+      {
+        "name": "UI/UX Design",
+        "percentage": 95
+      },
+      {
+        "name": "Web Development",
+        "percentage": 85
+      },
+      {
+        "name": "Branding",
+        "percentage": 90
+      }
+    ],
+    "cvLink": "#"
+  },
+  "services": {
+    "title": "My Services",
+    "subtitle": "I offer a range of services to help your business establish a strong digital presence and create meaningful connections with your audience.",
+    "items": [
+      {
+        "title": "UI/UX Design",
+        "description": "Create intuitive and beautiful interfaces that enhance user experience and drive engagement with your product.",
+        "icon": "fas fa-paint-brush"
+      },
+      {
+        "title": "Web Development",
+        "description": "Build responsive, fast and secure websites that work perfectly across all devices and platforms.",
+        "icon": "fas fa-code"
+      },
+      {
+        "title": "App Design",
+        "description": "Design mobile applications that provide seamless user experiences and align with your brand identity.",
+        "icon": "fas fa-mobile-alt"
+      },
+      {
+        "title": "Branding",
+        "description": "Develop a unique brand identity that communicates your values and resonates with your target audience.",
+        "icon": "fas fa-bullhorn"
+      },
+      {
+        "title": "SEO Optimization",
+        "description": "Improve your website's visibility and ranking on search engines to attract more organic traffic.",
+        "icon": "fas fa-search"
+      },
+      {
+        "title": "Digital Marketing",
+        "description": "Implement effective digital marketing strategies to grow your online presence and customer base.",
+        "icon": "fas fa-chart-line"
+      }
+    ]
+  },
+  "portfolio": {
+    "title": "My Projects",
+    "subtitle": "Explore my recent projects and see how I've helped clients achieve their goals through thoughtful design and development.",
+    "categories": ["all", "design", "development", "branding"],
+    "items": [
+      {
+        "title": "E-commerce Website",
+        "description": "UI/UX Design",
+        "image": "https://images.unsplash.com/photo-1467232004584-a241de8bcf5d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1738&q=80",
+        "category": "design",
+        "link": "#"
+      },
+      {
+        "title": "Mobile Banking App",
+        "description": "App Development",
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+        "category": "development",
+        "link": "#"
+      },
+      {
+        "title": "Corporate Branding",
+        "description": "Brand Identity",
+        "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+        "category": "branding",
+        "link": "#"
+      },
+      {
+        "title": "Travel Booking Platform",
+        "description": "UI/UX Design",
+        "image": "https://images.unsplash.com/photo-1522542550221-31fd19575a2d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+        "category": "design",
+        "link": "#"
+      },
+      {
+        "title": "Health Dashboard",
+        "description": "Web Development",
+        "image": "https://images.unsplash.com/photo-1551434678-e076c223a692?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+        "category": "development",
+        "link": "#"
+      },
+      {
+        "title": "Startup Branding",
+        "description": "Visual Identity",
+        "image": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1738&q=80",
+        "category": "branding",
+        "link": "#"
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "Client Testimonials",
+    "subtitle": "Hear what my clients have to say about working with me and the results we've achieved together.",
+    "items": [
+      {
+        "text": "Alex transformed our outdated website into a modern, user-friendly platform that has significantly increased our conversion rates. His attention to detail and creative approach made all the difference in our online presence.",
+        "author": "Sarah Johnson",
+        "role": "CEO, TechSolutions",
+        "image": "https://randomuser.me/api/portraits/women/43.jpg"
+      },
+      {
+        "text": "Working with Alex on our mobile app was an absolute pleasure. He understood our vision perfectly and delivered a product that exceeded our expectations. The user feedback has been overwhelmingly positive.",
+        "author": "Michael Chen",
+        "role": "Product Manager, Finova",
+        "image": "https://randomuser.me/api/portraits/men/32.jpg"
+      },
+      {
+        "text": "Alex's branding work for our startup was phenomenal. He captured our company's essence perfectly and created a visual identity that stands out in our industry. We've received countless compliments on our new look.",
+        "author": "Emily Rodriguez",
+        "role": "Founder, GreenLife",
+        "image": "https://randomuser.me/api/portraits/women/65.jpg"
+      }
+    ]
+  },
+  "contact": {
+    "title": "Get In Touch",
+    "subtitle": "Have a project in mind or want to discuss potential collaboration? I'd love to hear from you!",
+    "intro": "I'm currently available for freelance work and open to new opportunities. Feel free to reach out with any questions or to discuss your project requirements.",
+    "details": [
+      {
+        "icon": "fas fa-map-marker-alt",
+        "title": "Location",
+        "text": "San Francisco, CA"
+      },
+      {
+        "icon": "fas fa-envelope",
+        "title": "Email",
+        "text": "hello@alexcarter.design"
+      },
+      {
+        "icon": "fas fa-phone-alt",
+        "title": "Phone",
+        "text": "+1 (415) 555-0135"
+      }
+    ],
+    "social": [
+      {
+        "icon": "fab fa-twitter",
+        "link": "#",
+        "label": "Twitter"
+      },
+      {
+        "icon": "fab fa-dribbble",
+        "link": "#",
+        "label": "Dribbble"
+      },
+      {
+        "icon": "fab fa-behance",
+        "link": "#",
+        "label": "Behance"
+      },
+      {
+        "icon": "fab fa-linkedin-in",
+        "link": "#",
+        "label": "LinkedIn"
+      },
+      {
+        "icon": "fab fa-instagram",
+        "link": "#",
+        "label": "Instagram"
+      }
+    ]
+  },
+  "footer": {
+    "about": {
+      "title": "Alex Carter",
+      "text": "Creating digital experiences that are beautiful, functional and user-centered."
+    },
+    "links": [
+      {
+        "title": "Services",
+        "items": [
+          {"text": "UI/UX Design", "link": "#"},
+          {"text": "Web Development", "link": "#"},
+          {"text": "App Design", "link": "#"},
+          {"text": "Branding", "link": "#"},
+          {"text": "Digital Marketing", "link": "#"}
+        ]
+      }
+    ],
+    "newsletter": {
+      "title": "Newsletter",
+      "text": "Subscribe to my newsletter for the latest updates and insights."
+    },
+    "copyright": "© 2023 Alex Carter. All Rights Reserved."
+  }
+}
